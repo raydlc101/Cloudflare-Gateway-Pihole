@@ -4,3 +4,7 @@
 *.cloudflare.com
 *.youtube.com
 *.cloudflare-dns.com
+*.duckduckgo.com
+*.google.com
+*.brave.com
+*.bing.com
