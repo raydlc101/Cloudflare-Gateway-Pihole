@@ -1,2 +1,6 @@
-# connect.facebook.net
-api-js.datadome.co
+*.cloudflare-gateway.com
+*.nextdns.io
+*.github.com
+*.cloudflare.com
+*.youtube.com
+*.cloudflare-dns.com
