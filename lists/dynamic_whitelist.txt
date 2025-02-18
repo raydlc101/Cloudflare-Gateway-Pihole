@@ -14,3 +14,5 @@
 *.tunnelbear.com
 *.googlevideo.com
 *.googleapis.com
+*.ggpht.com
+*.googleusercontent.com
