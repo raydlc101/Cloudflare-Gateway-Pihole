@@ -8,3 +8,7 @@
 *.google.com
 *.brave.com
 *.bing.com
+*.ytimg,com
+*.cloudflareinsights.com
+*.proton.me
+*.tunnelbear.com
