@@ -16,3 +16,4 @@
 *.googleapis.com
 *.ggpht.com
 *.googleusercontent.com
+*.opensuse.org
